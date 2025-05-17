@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey, I'm Ketan 👨‍💻<br>A backend/DevOps engineer who just launched himself into the cloud (metaphorically... so far).<br><br>🔧 Currently reverse-engineering the universe of Kubernetes and Infrastructure as Code, one YAML file at a time.<br><br>☁️ Talk to me about AWS, cloud stuff, backend systems, or why your app is probably crashing because of a missing semicolon.<br><br>🧠 Obsessed with how things work under the hood—from operating systems to servers to your weirdly slow CI/CD pipeline.<br><br>🕵️‍♂️ Looking to collaborate with anyone who enjoys solving puzzles with code and coffee.<br><br>⚡ Fun fact: I once spent 4 hours debugging an issue that turned out to be... the internet being down. We grow from these things.
 
 
@@ -7,7 +7,7 @@ Hey, I'm Ketan 👨‍💻<br>A backend/DevOps engineer who just launched himsel
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ketan6969&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ketan6969&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan6969&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan6969&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
